@@ -32,7 +32,7 @@
     <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
   </snapshotRepository>
 </distributionManagement>
-
+//making some changes
 <scm>
   <connection>scm:git:git@github.com:VaishnaveeLake/spring-devops.git</connection>
   <developerConnection>scm:git:git@github.com:VaishnaveeLake/spring-devops.git</developerConnection>
